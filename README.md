@@ -13,13 +13,9 @@ Note: Requires Node v7.6.0 or greater.
 
 **Configure Email** 
 
-In ``index.js``
+In ``.env``
 
-Set Smtp username and password in transport object 
-
-Change Subject and Body of Email in mailOptions Object 
-
-
+Configure all email settings in **.env** file
 
 
 
