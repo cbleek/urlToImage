@@ -1,5 +1,5 @@
 {
-  "name": "htmltoimage",
+  "name": "urltoimage",
   "version": "1.0.0",
   "description": "Convert url to image",
   "main": "index.js",
