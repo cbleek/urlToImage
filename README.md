@@ -1,5 +1,5 @@
-# htmlToImage
-Convert Html to Image and send a mail
+# urlToImage
+Convert URL content to Image and send a mail
 <!-- [START getstarted] -->
 ## Getting Started
 
