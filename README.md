@@ -17,7 +17,7 @@ In ``index.js``
 
 Set Smtp username and password in transport object 
 
-Change Subject and Body of Email through mailOptions Object 
+Change Subject and Body of Email in mailOptions Object 
 
 
 
