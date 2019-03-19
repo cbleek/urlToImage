@@ -1,0 +1,13 @@
+{
+  "name": "htmltoimage",
+  "version": "1.0.0",
+  "description": "Convert url to image",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Yogesh Singh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "~5.1.1",
+    "puppeteer": "~1.13.0"
+  }
+}
